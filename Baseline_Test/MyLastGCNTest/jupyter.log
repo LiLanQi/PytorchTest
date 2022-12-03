@@ -1,0 +1,18 @@
+nohup: ignoring input
+[W 2022-05-28 12:39:58.874 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-05-28 12:39:58.874 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-05-28 12:39:58.874 LabApp] 'allow_root' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-05-28 12:39:58.875 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-05-28 12:39:58.875 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-05-28 12:39:58.875 LabApp] 'allow_remote_access' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-05-28 12:39:58.875 LabApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-05-28 12:39:58.875 LabApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-05-28 12:39:58.886 LabApp] JupyterLab extension loaded from /opt/conda/lib/python3.9/site-packages/jupyterlab
+[I 2022-05-28 12:39:58.886 LabApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[I 12:39:58.893 NotebookApp] Serving notebooks from local directory: /usr/local/llq931
+[I 12:39:58.893 NotebookApp] Jupyter Notebook 6.4.5 is running at:
+[I 12:39:58.893 NotebookApp] http://da5a27d9445f:8888/
+[I 12:39:58.893 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:53:46.679 NotebookApp] received signal 15, stopping
+[I 12:53:46.680 NotebookApp] Shutting down 0 kernels
+[I 12:53:46.680 NotebookApp] Shutting down 0 terminals
